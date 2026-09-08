@@ -1,3 +1,3 @@
 # GDP_and_CO2
 
-This is the README. Computer B commit
+This is the README. Computer B commit by Zhuotong Xie
